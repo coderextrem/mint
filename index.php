@@ -1,0 +1,1 @@
+<?php include_once("mint_sign_up.html"); ?>
